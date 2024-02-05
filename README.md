@@ -52,7 +52,7 @@ documentation. We recommend starting with the
 More information about building GoogleTest can be found at
 [googletest/README.md](googletest/README.md).
 
-## Features
+### Features
 
 *   xUnit test framework: \
     Googletest is based on the [xUnit](https://en.wikipedia.org/wiki/XUnit)
